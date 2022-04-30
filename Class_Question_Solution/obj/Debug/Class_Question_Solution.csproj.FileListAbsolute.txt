@@ -1,0 +1,7 @@
+C:\Users\gb141\source\repos\Class_Question_Solution\Class_Question_Solution\bin\Debug\Class_Question_Solution.exe.config
+C:\Users\gb141\source\repos\Class_Question_Solution\Class_Question_Solution\bin\Debug\Class_Question_Solution.exe
+C:\Users\gb141\source\repos\Class_Question_Solution\Class_Question_Solution\bin\Debug\Class_Question_Solution.pdb
+C:\Users\gb141\source\repos\Class_Question_Solution\Class_Question_Solution\obj\Debug\Class_Question_Solution.csprojAssemblyReference.cache
+C:\Users\gb141\source\repos\Class_Question_Solution\Class_Question_Solution\obj\Debug\Class_Question_Solution.csproj.CoreCompileInputs.cache
+C:\Users\gb141\source\repos\Class_Question_Solution\Class_Question_Solution\obj\Debug\Class_Question_Solution.exe
+C:\Users\gb141\source\repos\Class_Question_Solution\Class_Question_Solution\obj\Debug\Class_Question_Solution.pdb
